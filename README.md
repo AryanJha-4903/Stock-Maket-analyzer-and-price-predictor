@@ -13,7 +13,6 @@ A comprehensive tool for analyzing stock market trends and predicting future sto
 
 ## Technologies
 - **Machine Learning**: Python, Scikit-Learn, TensorFlow
-- **Development Tools**: Node.js, Express, React, D3.js
 
 ## Getting Started
 Clone the repository.
